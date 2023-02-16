@@ -1,0 +1,23 @@
+{
+  "name": "servidor_com_koajs_node",
+  "version": "1.0.0",
+  "description": "Meu primeiro servidor com Koa",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "KoaJS",
+    "koajs",
+    "Koa",
+    "koa",
+    "node"
+  ],
+  "author": "Gabriel Neto",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-router": "^12.0.0"
+  }
+}
